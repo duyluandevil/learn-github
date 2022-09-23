@@ -1,0 +1,20 @@
+1. create và upload một repository mới lên github
+2. xử lý nhiều lần về việc upload - commit lên repo
+3. Tạo mới một repo có tên là train-code-092022
+
+
+4. Làm các bài tập sau đây bằng code C 
+
+Nội dung: Viết tất cả bài tập này chạy trong 1 file, mỗi câu là 1 function
+
+a. Cộng hai số
+b. Trừ hai số
+c. Nhân hai số
+d. Chia hai số
+e. Tính tổng từ 1 đến 100
+f. Tính hiệu từ 1 đến 100
+g. Tính giá trị từ 1 đến 100 tùy ý, có thể thay phép tính x, với x là giá trị truyền vào từ bàn phím
+// Ví dụ: 1 -> 100 = value, + => tổng, - => hiệu
+
+g.1. Tính giá trị từ 1 đến n tùy ý, có thể thay phép tính x, với n và x là giá trị truyền vào từ bàn phím
+h. Tính giá trị từ 1 mũ n tới 20 mũ n bằng phép +, 1^n + 2^n +... + 20^n, với n là số tùy ý
